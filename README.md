@@ -6,4 +6,6 @@ Power BI Portfolios
 - [Report Link](https://medium.com/@obalanatosin16/case-study-analyzing-job-market-data-in-power-bi-f24c6d13a99d)
 
 ## Case Study Analyzing Customer Churn in Power BI 
-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzY5ZGMzODQtMjNiMy00ZjJkLWFhZDQtYTk5ZmY1ZDAzOTcwIiwidCI6IjdhZTdkZWI5LTRjYTYtNDc2NC1hYjhjLThlNzEyODNlZGUyZiJ9)
+ - [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzY5ZGMzODQtMjNiMy00ZjJkLWFhZDQtYTk5ZmY1ZDAzOTcwIiwidCI6IjdhZTdkZWI5LTRjYTYtNDc2NC1hYjhjLThlNzEyODNlZGUyZiJ9)
+
+## [Build-Data-Dashboards](https://github.com/oluwatosin17/Build-Data-Dashboards)
