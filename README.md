@@ -7,6 +7,7 @@ Power BI Portfolios
 
 ## Case Study Analyzing Customer Churn in Power BI 
  - [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzY5ZGMzODQtMjNiMy00ZjJkLWFhZDQtYTk5ZmY1ZDAzOTcwIiwidCI6IjdhZTdkZWI5LTRjYTYtNDc2NC1hYjhjLThlNzEyODNlZGUyZiJ9)
+ - [Report Link](https://medium.com/@obalanatosin16/case-study-analyzing-customer-churn-in-power-bi-8f45ca3b702a)
 
 ## Build-Data-Dashboards 
 - [Build-Data-Dashboards](https://github.com/oluwatosin17/Build-Data-Dashboards)
